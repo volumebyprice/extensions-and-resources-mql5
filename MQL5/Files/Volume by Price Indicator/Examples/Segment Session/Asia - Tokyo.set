@@ -1,0 +1,13 @@
+input_section_dataset=------------------------------------------
+input_time_segment_mode=1
+input_session_name=TYO
+input_session_mode=5
+input_session_custom_start=23:00
+input_session_custom_end=08:00
+input_session_offset=0
+input_session_quotes=-1
+input_session_custom_week=Sunday-Saturday
+input_session_group=1
+input_session_group_mode=0
+input_eval_tpo_session_group=1
+
